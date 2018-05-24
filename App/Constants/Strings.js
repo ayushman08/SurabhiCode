@@ -1,0 +1,30 @@
+const STRINGS = {
+
+	//Sohil
+
+	GOOGLE_PALCES_API_KEY: 'AIzaSyClq-KQUvy9b60TbprysJkMgfX-m0y0Ej8',
+
+    FIRST_NAME:'FIRST NAME',
+    LAST_NAME:'LAST NAME',
+    EMAIL:'EMAIL',
+    PASSWORD:'PASSWORD',
+    NEXT:'NEXT',
+    HOME:'HOME',
+    CONTACT_INFORMATION:'CONTACT INFORMATION',
+    WHATS_YOUR_NAME:"WHAT'S YOUR NAME AND EMAIL ADDRESS ?",
+
+
+    //Service preference screen
+
+    SERVICE_PREFERENCE:"SERVICE PREFERENCE",
+    WHAT_KIND_OF_SERVICE:"WHAT KIND OF SERVICE WOULD YOU LIKE FROM US ?",
+    SELECT_SERVICE:'Select service for',
+    CONVINENCE:'Convinence',
+    STYLE:'Style',
+    GIFT:'Gift'
+
+
+
+
+}
+export default STRINGS;
